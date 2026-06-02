@@ -1,0 +1,7 @@
+pyrogram
+tgcrypto
+pymongo
+requests
+aiohttp
+yt-dlp
+ffmpeg-python
